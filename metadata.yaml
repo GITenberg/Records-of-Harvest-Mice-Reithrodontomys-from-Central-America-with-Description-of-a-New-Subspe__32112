@@ -1,0 +1,31 @@
+_repo: Records-of-Harvest-Mice-Reithrodontomys-from-Central-America-with-Description-of-a-New-Subspe__32112
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Anderson, Sydney
+    birthdate: 1927
+    gutenberg_agent_id: '34908'
+    url: http://www.gutenberg.org/2009/agents/34908
+  - agent_name: Jones, J. Knox
+    birthdate: 1929
+    deathdate: 1992
+    gutenberg_agent_id: '33991'
+    url: http://www.gutenberg.org/2009/agents/33991
+description: ''
+gutenberg_issued: '2010-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mice'
+- !lcc 'QH'
+title: Records of Harvest Mice, Reithrodontomys, from Central America, with Description
+  of a New Subspecies from Nicaragua
+url: http://www.gutenberg.org/ebooks/32112
